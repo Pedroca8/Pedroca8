@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/user-attachments/assets/631c4206-92ad-45c9-96f7-2d5bdde39819)
 
-<img src="https://avatars.githubusercontent.com/u/SEU_USERNAME?v=4" width="150" height="150" style="border-radius: 50%; border: 4px solid #539bf5; margin-top: -75px;">
+<img width="100" height="1178" alt="Image" src="https://github.com/user-attachments/assets/108f92e7-b9d9-4855-8e66-20047b5fdb28"/>
 
 # Pedro Henrique 👋
 
