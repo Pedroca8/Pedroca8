@@ -69,13 +69,6 @@
 5. 🔧 Improved performance in [SEU_USERNAME/optimization]
 <!--END_SECTION:activity-->
 
-## 🏆 Troféus do GitHub
-
-<div align="center">
-
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&row=2&column=4)
-
-</div>
 
 ## 📫 Vamos Conversar!
 
