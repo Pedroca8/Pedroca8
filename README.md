@@ -58,35 +58,6 @@
 
 </div>
 
-## 🚀 Projetos em Destaque
-
-### [📦 Sistema de E-commerce](https://github.com/SEU_USERNAME/ecommerce-system)
-Plataforma completa de e-commerce com carrinho de compras, pagamentos e painel administrativo.
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### [💰 App de Finanças Pessoais](https://github.com/SEU_USERNAME/finance-app)
-Aplicativo para controle de gastos e orçamentos pessoais com gráficos e relatórios.
-<br>
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-### [🎓 Plataforma de Cursos Online](https://github.com/SEU_USERNAME/learning-platform)
-Sistema de gerenciamento de cursos com videoaulas, exercícios e certificados.
-<br>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-
-### [🤖 Chatbot com IA](https://github.com/SEU_USERNAME/ai-chatbot)
-Chatbot inteligente utilizando processamento de linguagem natural e machine learning.
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ## 📈 Contribuições Recentes
 
