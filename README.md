@@ -10,7 +10,7 @@
 **Desenvolvedor Full Stack | Apaixonado por tecnologia e inovação**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-539bf5?style=for-the-badge)](https://seuportfolio.com)
-[![LinkedIn](https://www.linkedin.com/in/pedro-arcanjo-dos-reis/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-arcanjo-dos-reis)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 </div>
@@ -72,7 +72,7 @@
 
 ## 📫 Vamos Conversar!
 
-- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](www.linkedin.com/in/pedro-arcanjo-dos-reis)
 - 📧 **E-mail**: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
 - 🌐 **Portfolio**: [seuportfolio.com](https://seuportfolio.com)
 - 🐦 **Twitter**: [@seu_usuario](https://twitter.com/seu_usuario)
