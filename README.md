@@ -79,9 +79,6 @@
 
 <div align="center">
 
-### ⚡ Fun Fact:
-*"Escrevi meu primeiro programa em [linguagem] aos [idade] anos e desde então não parei mais!"*
-
 ![Visitas](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square)
 
 **Obrigado pela visita!** 😊
