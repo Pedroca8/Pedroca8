@@ -65,10 +65,10 @@
 
 ## 📫 Vamos Conversar!
 
-- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](www.linkedin.com/in/pedro-arcanjo-dos-reis)
-- 📧 **E-mail**: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- 💼 **LinkedIn**: [Pedro Henrique](www.linkedin.com/in/pedro-arcanjo-dos-reis)
+- 📧 **E-mail**: [noseeu365@gmail.com](mailto:noseeu365@gmail.com)
 - 🌐 **Portfolio**: [seuportfolio.com](https://seuportfolio.com)
-- ✖️ **x**: [@seu_usuario](https://x.com/PEDDDesign)
+- ✖️ **x**: [@Pedro](https://x.com/PEDDDesign)
 
 <div align="center">
 
