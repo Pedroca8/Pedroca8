@@ -68,7 +68,7 @@
 - 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](www.linkedin.com/in/pedro-arcanjo-dos-reis)
 - 📧 **E-mail**: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
 - 🌐 **Portfolio**: [seuportfolio.com](https://seuportfolio.com)
-- 🐦 **Twitter**: [@seu_usuario](https://twitter.com/seu_usuario)
+- ✖️ **x**: [@seu_usuario](https://x.com/PEDDDesign)
 
 <div align="center">
 
