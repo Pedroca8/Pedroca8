@@ -65,8 +65,8 @@
 
 ## 📫 Vamos Conversar!
 
-- 💼 **LinkedIn**: [Pedro Henrique](www.linkedin.com/in/pedro-arcanjo-dos-reis)
-- 📧 **E-mail**: [noseeu365@gmail.com](mailto:noseeu365@gmail.com)
+- 💼 **LinkedIn**: [Pedro Henrique](https://www.linkedin.com/in/pedro-arcanjo-dos-reis/)
+- 📧 **E-mail**: [noseeu365@gmail.com](noseeu365@gmail.com)
 - 🌐 **Portfolio**: [seuportfolio.com](https://seuportfolio.com)
 - ✖️ **x**: [@Pedro](https://x.com/PEDDDesign)
 
