@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/user-attachments/assets/631c4206-92ad-45c9-96f7-2d5bdde39819)
 
-<img width="100" height="1178" alt="Image" src="https://github.com/user-attachments/assets/108f92e7-b9d9-4855-8e66-20047b5fdb28"/>
+
 
 # Pedro Henrique 👋
 
